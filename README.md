@@ -4,7 +4,7 @@
 * Team Members
     * Zachary Andrew: ZTA16@pitt.edu
     * Rodrigo Caceda: ROQ5@pitt.edu
-    * Saung Oo:
+    * Saung Yati Oo: SAO139@pitt.edu
     
 
 ## Project Description
