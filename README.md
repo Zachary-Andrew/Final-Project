@@ -1,6 +1,6 @@
 # Final-Project
 
-## Team Name:
+## Team Name: Safety Squad
 * Team Members
     * Zachary Andrew: ZTA16@pitt.edu
     * Rodrigo Caceda: ROQ5@pitt.edu
